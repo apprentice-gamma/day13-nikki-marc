@@ -7,7 +7,3 @@ var getRandomNumber = function(min, max){
 }
 
 console.log(getRandomNumber(1,20));
-
-
-// round
-// sqrt
